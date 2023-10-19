@@ -1,0 +1,7 @@
+.Cuadro_01 {
+  width: 484px;
+  height: 321px;
+  flex-shrink: 0;
+  border-radius: 20px;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.60) 30%, rgba(0, 85, 255, 0.37) 100%);
+}
