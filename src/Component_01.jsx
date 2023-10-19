@@ -6,6 +6,10 @@ function Component_01() {
     <>
       <div className="Cuadro_01">
         <img src="/avatar.svg" alt="" />
+        <div className="mc">
+          <img className="img1" src="/User Badges (1).svg" alt="" />
+          <img className="img2" src="/User Badges.svg" alt="" />
+        </div>
       </div>
     </>
   );

@@ -3,5 +3,26 @@
   height: 321px;
   flex-shrink: 0;
   border-radius: 20px;
-  background: linear-gradient(180deg, rgba(0, 0, 0, 0.60) 30%, rgba(0, 85, 255, 0.37) 100%);
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0.6) 30%,
+    rgba(0, 85, 255, 0.37) 100%
+  );
+}
+.mc {
+  width: 76px;
+  height: 33px;
+  flex-shrink: 0;
+  border-radius: 7px;
+  background: #17181a;
+}
+.img1 {
+  width: 28px;
+  height: 20px;
+  flex-shrink: 0;
+}
+.img2 {
+  width: 11px;
+  height: 20px;
+  flex-shrink: 0;
 }
